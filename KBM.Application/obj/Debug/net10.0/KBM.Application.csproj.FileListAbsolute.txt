@@ -1,0 +1,15 @@
+C:\Users\AM\source\repos\KBM.Backend\KBM.Application\bin\Debug\net10.0\KBM.Application.deps.json
+C:\Users\AM\source\repos\KBM.Backend\KBM.Application\bin\Debug\net10.0\KBM.Application.dll
+C:\Users\AM\source\repos\KBM.Backend\KBM.Application\bin\Debug\net10.0\KBM.Application.pdb
+C:\Users\AM\source\repos\KBM.Backend\KBM.Application\bin\Debug\net10.0\KBM.Domain.dll
+C:\Users\AM\source\repos\KBM.Backend\KBM.Application\bin\Debug\net10.0\KBM.Domain.pdb
+C:\Users\AM\source\repos\KBM.Backend\KBM.Application\obj\Debug\net10.0\KBM.Application.csproj.AssemblyReference.cache
+C:\Users\AM\source\repos\KBM.Backend\KBM.Application\obj\Debug\net10.0\KBM.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AM\source\repos\KBM.Backend\KBM.Application\obj\Debug\net10.0\KBM.Application.AssemblyInfoInputs.cache
+C:\Users\AM\source\repos\KBM.Backend\KBM.Application\obj\Debug\net10.0\KBM.Application.AssemblyInfo.cs
+C:\Users\AM\source\repos\KBM.Backend\KBM.Application\obj\Debug\net10.0\KBM.Application.csproj.CoreCompileInputs.cache
+C:\Users\AM\source\repos\KBM.Backend\KBM.Application\obj\Debug\net10.0\KBM.Appl.6434116C.Up2Date
+C:\Users\AM\source\repos\KBM.Backend\KBM.Application\obj\Debug\net10.0\KBM.Application.dll
+C:\Users\AM\source\repos\KBM.Backend\KBM.Application\obj\Debug\net10.0\refint\KBM.Application.dll
+C:\Users\AM\source\repos\KBM.Backend\KBM.Application\obj\Debug\net10.0\KBM.Application.pdb
+C:\Users\AM\source\repos\KBM.Backend\KBM.Application\obj\Debug\net10.0\ref\KBM.Application.dll

@@ -1,0 +1,11 @@
+C:\Users\AM\source\repos\KBM.Backend\KBM.Domain\bin\Debug\net10.0\KBM.Domain.deps.json
+C:\Users\AM\source\repos\KBM.Backend\KBM.Domain\bin\Debug\net10.0\KBM.Domain.dll
+C:\Users\AM\source\repos\KBM.Backend\KBM.Domain\bin\Debug\net10.0\KBM.Domain.pdb
+C:\Users\AM\source\repos\KBM.Backend\KBM.Domain\obj\Debug\net10.0\KBM.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AM\source\repos\KBM.Backend\KBM.Domain\obj\Debug\net10.0\KBM.Domain.AssemblyInfoInputs.cache
+C:\Users\AM\source\repos\KBM.Backend\KBM.Domain\obj\Debug\net10.0\KBM.Domain.AssemblyInfo.cs
+C:\Users\AM\source\repos\KBM.Backend\KBM.Domain\obj\Debug\net10.0\KBM.Domain.csproj.CoreCompileInputs.cache
+C:\Users\AM\source\repos\KBM.Backend\KBM.Domain\obj\Debug\net10.0\KBM.Domain.dll
+C:\Users\AM\source\repos\KBM.Backend\KBM.Domain\obj\Debug\net10.0\refint\KBM.Domain.dll
+C:\Users\AM\source\repos\KBM.Backend\KBM.Domain\obj\Debug\net10.0\KBM.Domain.pdb
+C:\Users\AM\source\repos\KBM.Backend\KBM.Domain\obj\Debug\net10.0\ref\KBM.Domain.dll
